@@ -32,6 +32,10 @@
 		<put-attribute name="body" value="/jsp/bootstraptest.jsp" />
 	</definition>
 	
+	<definition name="userlist" extends="layout.bootstrap">
+		<put-attribute name="body" value="/jsp/userlist.jsp" />
+	</definition>
+	
 	<definition name="map" template="/jsp/map.jsp">
 	</definition>
 	

@@ -42,10 +42,7 @@ public class HomeController extends BaseController {
 		return "map";
 	}
 	
-	@RequestMapping("/bootstraptest")
-	public String bootstraptest() {
-		return "bootstraptest";
-	}
+	
 	
 	@RequestMapping("/home")
 	public String welcome(Map<String, Object> model) {
