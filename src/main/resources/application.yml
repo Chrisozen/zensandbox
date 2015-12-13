@@ -1,0 +1,16 @@
+spring.mvc.view.prefix: /resources/public/jsp/
+spring.mvc.view.suffix: .jsp
+
+logging:
+  level:
+    org.springframework: INFO
+    org.hibernate: INFO
+    org.zen: DEBUG
+    org.apache.tiles: DEBUG
+  
+    
+application: 
+  message: Hello Chris !
+
+
+
