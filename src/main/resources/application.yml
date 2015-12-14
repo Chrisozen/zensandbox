@@ -7,7 +7,6 @@ logging:
     org.hibernate: INFO
     org.zen: DEBUG
     org.apache.tiles: DEBUG
-  
     
 application: 
   message: Hello Chris !
