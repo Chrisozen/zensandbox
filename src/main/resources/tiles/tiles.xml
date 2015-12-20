@@ -23,7 +23,9 @@
 	
 	<definition name="layout.bootstrap" template="/templates/template-bootstrap.jsp">
 		<put-attribute name="title" value="Bootstrap Test page !" />
+		<put-attribute name="header" value="/templates/header.jsp" />
 		<put-attribute name="body" value="" />
+		<put-attribute name="footer" value="/templates/footer.jsp" />
 	</definition>
 	
 	<!-- Pages -->	
