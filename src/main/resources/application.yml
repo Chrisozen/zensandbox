@@ -7,7 +7,6 @@ logging:
     org.hibernate: INFO
     org.zen: DEBUG
     org.apache.tiles: DEBUG
-<<<<<<< HEAD
   
 spring.datasource:
   url: jdbc:h2:mem:zendb
@@ -17,8 +16,6 @@ spring.datasource:
   
 
 spring.jpa.hibernate.ddl-auto: create-drop
-=======
->>>>>>> 106b5205c1c0404154c3824a105fae6daac4e16a
     
 application: 
   message: Hello Chris !
